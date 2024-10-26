@@ -1,7 +1,6 @@
 ### Hi there 👋
-- I am a CS student
-- 🔭 I’m currently working on Unity projects with AR 
-- ⚡ Fun fact: I enjoy travelling, playing video games, and drawing
+- I am a CS graduate
+- ⚡ Fun fact: I enjoy traveling, video games, and digital art
 <!--
 **javizuni42/javizuni42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
